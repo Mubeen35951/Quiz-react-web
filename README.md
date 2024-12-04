@@ -1,56 +1,25 @@
-# 🚀 React Quiz App 
+<h1 align="center">Todo React App  📝</h1>  
+<p align="center">
+  🖊️ A simple Todo App built using <a href="https://reactjs.org/">React</a> and <a href="https://mantine.dev/">Mantine UI</a>
+</p>
 
-The "React Quiz App" is a dynamic and engaging web application built with React.js. This project offers a variety of features, including a complete responsive design for seamless use on different devices, a clean and intuitive user interface, and a timed quiz with a progress bar to track your progress. 
+## This is a super simple Todo App built using React.js and styled using Mantine UI.
 
-As you answer questions, the app instantly updates your score and provides a comprehensive scorecard once the quiz is completed. The quiz also includes an automatic submission feature when the timer runs out.
+You can view a live demo of the project here: https://javascriptbear.github.io/todo_react_app/
+Or, you can watch this video demo
 
-# Demo
+### **(Most likely outdated, its reccomeneded you check out the live demo!)**
 
- [WEBSITE-Demo](https://vinayak9669.github.io/React-QuizApp/)
- 
- [Check out the LinkedIn Post with Video Demo](https://www.linkedin.com/posts/vinay1998_reactjs-webdevelopment-frontenddevelopment-activity-7125437291241644032-3ko7?utm_source=share&utm_medium=member_desktop)
+https://user-images.githubusercontent.com/109053279/178185429-8de77574-cc2f-429f-8c4e-b1ed9f290894.mp4
 
-## 🛠️Technology Used 
+## 😃 Features:
 
-- [React.js](https://reactjs.org/)
+- ➕ Add todos
+- 🗑️ Delete todos
+- ⏸ Save todos to Local Storage when the state changes
+- ▶️ Load the todos from Local Storage when the site is loaded again
+- 🌙 Light \ dark mode toggle
 
-## 📋Project Features 
-
-- 🌐 Complete Responsive Website: This quiz app is designed to work seamlessly on various devices and screen sizes.
-- 🎨 Clean and Simple User Interface: A user-friendly design for an enjoyable quiz experience.
-- ⏲️ Timer for Quiz: Each quiz question is timed, adding an element of challenge and excitement.
-- 📊 Progress Bar: Keep track of your quiz progress in real-time.
-- 📈 Score Update: Instant feedback on your score after answering each question.
-- 📜 Score Card: Get a comprehensive scorecard with your quiz results.
-- ⏱️ Auto-Submission: The quiz automatically submits when the time is up.
-
-## 📚Learning Points 
-
-- 📡 Creating a Fake API: Learn how to create and deploy a mock API and integrate it into project.
-- ⚙️ State Management: Explore state management techniques using the `useReducer` hook to efficiently handle application state.
-- 🔄 Fetching Data with `useEffect()`: Utilize the `useEffect` hook for fetching API data and managing timers.
-
-## How to Install and Run
-
-1. Clone the repository:
-
-    ```bash
-   gh repo clone VINAYAK9669/React-QuizApp
-    ```
-
-2. Install dependencies:
-
-    ```bash
-    cd React-QuizApp
-    npm install
-    ```
-
-3. Start the development server:
-
-    ```bash
-    npm start
-    ```
-
-## 📱Responsiveness 
-![ScreenShots](ScreenShots/React_Quiz_App_Responsivness.png)
-
+<p align="center">
+  ❤️ Feel free to create issues and contributions for features or bugs to this project.
+</p>
